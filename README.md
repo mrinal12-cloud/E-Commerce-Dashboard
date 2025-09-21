@@ -1,3 +1,4 @@
+## Title
 E-Commerce Sales Dashboard
 
 ## 📌 Short Description
@@ -37,3 +38,4 @@ Created an interactive dashboard to track and analyze online sales data. Impleme
   - Slicers, etc.  
 
 ## 📸 Dashboard Preview
+![Dashboard] (https://github.com/mrinal12-cloud/E-Commerce-Dashboard/blob/main/PwerBI%20Dasboard.png)
