@@ -1,5 +1,4 @@
-## Title
-E-Commerce Sales Dashboard
+# 📊 E-Commerce Sales Dashboard
 
 ## 📌 Short Description
 Created an interactive dashboard to track and analyze online sales data. Implemented filters, slicers, and different types of customized visualizations to derive meaningful insights.
